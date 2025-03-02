@@ -5,7 +5,7 @@ import re
 import os
 
 # Configure Google Gemini AI API Key
-genai.configure(api_key="AIzaSyBAROqtfI5VfAu3fSejKSsvjMxjunV27yQ")
+genai.configure(api_key="API_Key")
 
 app = Flask(__name__)
 
